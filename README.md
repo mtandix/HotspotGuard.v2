@@ -1,0 +1,1 @@
+# HotspotGuard.v2
